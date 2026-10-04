@@ -16,9 +16,9 @@
                         │     NORA         │
                         │    MAIN AI       │
                         └───────┬───────┘
-                                │
+                                   │
               ┌─────────────────┼─────────────────┐
-              │                 │                 │
+              │                   │                 │
        ┌──────▼──────┐   ┌──────▼──────┐   ┌──────▼──────┐
        │   ORIN         │   │    ERIA        │   │    IRIS       │
        │  COMPUTER      │   │    MOBILE      │   │   GLASSES     │
@@ -47,6 +47,6 @@ https://github.com/downlaygamer-source/Iris_Glasses_AI.git
 ## Aven_Social_AI
 https://github.com/downlaygamer-source/Aven_Chat_AI.git
 
-## Elva_Call_AI
-https://github.com/downlaygamer-source/Elva_Call_AI.git
+## Eliva_Call_AI
+https://github.com/downlaygamer-source/Eliva_Call_AI.git
 
