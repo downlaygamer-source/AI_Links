@@ -13,23 +13,23 @@
 
 ## How it is used 😉
                         ┌───────────────┐
-                        │     NORA      │
-                        │    MAIN AI    │
+                        │     NORA         │
+                        │    MAIN AI       │
                         └───────┬───────┘
                                 │
               ┌─────────────────┼─────────────────┐
               │                 │                 │
        ┌──────▼──────┐   ┌──────▼──────┐   ┌──────▼──────┐
-       │   ORIN    │   │    ERIA    │   │    IRIS     │
-       │  COMPUTER   │   │    MOBILE   │   │   GLASSES   │
-       └─────────────┘   └──────┬──────┘   └─────────────┘
-                                │
-                         ┌──────┴──────┐
-                         │             │
-                  ┌──────▼──────┐ ┌────▼───────┐
-                  │    AVEN     │ │    ELVA    │
-                  │    CHAT     │ │    CALL    │
-                  └─────────────┘ └────────────┘
+       │   ORIN         │   │    ERIA        │   │    IRIS       │
+       │  COMPUTER      │   │    MOBILE      │   │   GLASSES     │
+       └─────────────┘    └──────┬──────┘   └─────────────┘
+                                     │
+                             ┌──────┴──────┐
+                             │               │
+                     ┌──────▼──────┐┌────▼───────┐
+                     │   AVEN         ││    ELVA      │
+                     │    CHAT        ││    CALL      │
+                     └─────────────┘ └────────────┘
 
 
 ## Nora — Main AI
@@ -49,3 +49,4 @@ https://github.com/downlaygamer-source/Aven_Chat_AI.git
 
 ## Elva_Call_AI
 https://github.com/downlaygamer-source/Elva_Call_AI.git
+
