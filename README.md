@@ -5,10 +5,10 @@
 | AI | Names | Pronunciation |
 |---|---:|---|
 | Main AI | Nora | Nor-uh |
-| Computer AI | Mova | Moh-vuh |
-| Mobile AI | Tavi | Tah-vee |
+| Computer AI | Orin | AW-rin |
+| Mobile AI | Eria | eye-ruh |
 | Glasses AI | Iris | Eye-ris |
-| Social AI | Melo | Mel-oh |
+| Chat AI | Aven | Av-en |
 | Call Ai | Eliva | El-vuh |
 
 ## How it is used 😉
@@ -20,32 +20,32 @@
               ┌─────────────────┼─────────────────┐
               │                 │                 │
        ┌──────▼──────┐   ┌──────▼──────┐   ┌──────▼──────┐
-       │    MOVA     │   │     TAVI    │   │    IRIS     │
+       │   ORIN    │   │    ERIA    │   │    IRIS     │
        │  COMPUTER   │   │    MOBILE   │   │   GLASSES   │
        └─────────────┘   └──────┬──────┘   └─────────────┘
                                 │
                          ┌──────┴──────┐
                          │             │
                   ┌──────▼──────┐ ┌────▼───────┐
-                  │    MELO     │ │    ELVA    │
-                  │   SOCIA     │ │    CALL    │
+                  │    AVEN     │ │    ELVA    │
+                  │    CHAT     │ │    CALL    │
                   └─────────────┘ └────────────┘
 
 
 ## Nora — Main AI
-https://github.com/downlaygamer-source/Nora_Main_AI
+https://github.com/downlaygamer-source/Nora_Main_AI.git
 
-## Mova_Computer_AI
-https://github.com/downlaygamer-source/Mova_Computer_AI
+## Orin_Computer_AI
+https://github.com/downlaygamer-source/Orin_Computer_AI.git
 
-## Tavi_Mobile_AI
-https://github.com/downlaygamer-source/Tavi_Mobile_AI
+## Eria_Mobile_AI
+https://github.com/downlaygamer-source/Eria_Mobile_AI.git
 
 ## Iris_Glasses_AI
-https://github.com/downlaygamer-source/Iris_Glasses_AI
+https://github.com/downlaygamer-source/Iris_Glasses_AI.git
 
-## Melo_Social_AI
-https://github.com/downlaygamer-source/Melo_Social_AI
+## Aven_Social_AI
+https://github.com/downlaygamer-source/Aven_Chat_AI.git
 
 ## Elva_Call_AI
-https://github.com/downlaygamer-source/Elva_Call_AI
+https://github.com/downlaygamer-source/Elva_Call_AI.git
