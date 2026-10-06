@@ -10,26 +10,27 @@
 | Glasses AI | Iris | Eye-ris |
 | Chat AI | Aven | Av-en |
 | Call Ai | Eliva | El-vuh |
+|Smartwatch AI | Luma | Lu-maa |
 
 ## How it is used 😉
-                        ┌───────────────┐
-                        │     NORA         │
-                        │    MAIN AI       │
-                        └───────┬───────┘
-                                   │
-              ┌─────────────────┼─────────────────┐
-              │                   │                 │
-       ┌──────▼──────┐   ┌──────▼──────┐   ┌──────▼──────┐
-       │   ORIN         │   │    ERIA        │   │    IRIS       │
-       │  COMPUTER      │   │    MOBILE      │   │   GLASSES     │
-       └─────────────┘    └──────┬──────┘   └─────────────┘
-                                     │
-                             ┌──────┴──────┐
-                             │               │
-                     ┌──────▼──────┐┌────▼───────┐
-                     │   AVEN         ││    ELVA      │
-                     │    CHAT        ││    CALL      │
-                     └─────────────┘ └────────────┘
+                                 ┌───────────────┐
+                                 │     NORA      │
+                                 │    MAIN AI    │
+                                 └───────┬───────┘
+                                         │
+              ┌─────────────────┼─────────────────┼─────────────────┐
+              │                 │                 │                 |
+       ┌──────▼──────┐   ┌──────▼──────┐   ┌──────▼──────┐   ┌──────▼──────┐
+       │   ORIN      │   │    ERIA     │   │    IRIS     │   │    LUMA     │
+       │  COMPUTER   │   │    MOBIL    │   │   GLASSES   │   │ Smartwatch  │
+       └─────────────┘   └──────┬──────┘   └─────────────┘   └─────────────┘
+                                │
+                         ┌──────┴─────────┐
+                         │                │
+                  ┌──────▼──────┐    ┌────▼───────┐
+                  │   AVEN      │    │    ELVA    │
+                  │    CHAT     │    │    CALL    │
+                  └─────────────┘    └────────────┘
 
 
 ## Nora — Main AI
@@ -50,3 +51,5 @@ https://github.com/downlaygamer-source/Aven_Chat_AI.git
 ## Eliva_Call_AI
 https://github.com/downlaygamer-source/Eliva_Call_AI.git
 
+## Luma_Smartwatch_AI
+http://github.com/downlaygamer-source/Luma_Smartwatch_AI.git
